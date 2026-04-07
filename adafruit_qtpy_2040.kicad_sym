@@ -28,8 +28,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "adafruit_qtpy_2040:Adafruit_QTPy_4020"
+			(at 0 17.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -55,6 +55,16 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Note" "See official Adafruit pinout diagrams for other uses for pins"
+			(at -0.508 -40.894 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -412,14 +422,6 @@
 			)
 		)
 		(symbol "adafruit_qtpy_2040_1_1"
-			(text "See official Adafruit pinout diagrams for other uses for pins"
-				(at 0 -41.656 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(text "QTPy RP2040"
 				(at 0.508 -5.842 0)
 				(effects
