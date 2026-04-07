@@ -8,3 +8,6 @@ https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/4900%20QTPy%20RP2040
 ## Installation
 - Add the symbol to your symbol libraries
 - Add the footprint to your footprint libraries
+
+# License
+This repository is licensed under the MIT License. Please see https://choosealicense.com/licenses/mit/ for more information
